@@ -17,7 +17,7 @@ import (
 
 // MongoDB connection string and database/collection names
 
-const connectionSring = "mongodb+srv://anshuljagota14:<db_password>@cluster0.dlays.mongodb.net/"
+const connectionSring = "Enter your mongodb connection "
 const dbname = "Netflix"
 const colname = "Watchlist"
 
